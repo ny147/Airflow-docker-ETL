@@ -1,0 +1,207 @@
+continent_code,currency,currency_code,Country,TwoLetterSymbol
+AS,Afghani,AFN,Afghanistan,af
+EU,Lek,ALL,Albania,al
+AF,Algerian Dinar,DZD,Algeria,dz
+EU,Euro,EUR,Andorra,ad
+AF,Kwanza,AOA,Angola,ao
+NA,East Caribbean Dollar,XCD,Antigua And Barbuda,ag
+SA,Argentine Peso,ARS,Argentina,ar
+AS,Armenian Dram,AMD,Armenia,am
+NA,Aruban Florin,AWG,Aruba,aw
+OC,Australian Dollar,AUD,Australia,au
+EU,Euro,EUR,Austria,at
+AS,Azerbaijan Manat,AZN,Azerbaijan,az
+AS,Bahraini Dinar,BHD,Bahrain,bh
+AS,Taka,BDT,Bangladesh,bd
+NA,Barbados Dollar,BBD,Barbados,bb
+EU,Belarusian Ruble,BYN,Belarus,by
+EU,Euro,EUR,Belgium,be
+NA,Belize Dollar,BZD,Belize,bz
+AF,CFA Franc BCEAO,XOF,Benin,bj
+AS,Ngultrum,BTN,Bhutan,bt
+SA,Boliviano,BOB,Bolivia,bo
+EU,Convertible Mark,BAM,Bosnia And Herzegovina,ba
+AF,Pula,BWP,Botswana,bw
+SA,Brazilian Real,BRL,Brazil,br
+AS,Brunei Dollar,BND,Brunei,bn
+EU,Bulgarian Lev,BGN,Bulgaria,bg
+AF,CFA Franc BCEAO,XOF,Burkina Faso,bf
+AF,Burundi Franc,BIF,Burundi,bi
+AS,Riel,KHR,Cambodia,kh
+AF,CFA Franc BEAC,XAF,Cameroon,cm
+NA,Canadian Dollar,CAD,Canada,ca
+AF,Cabo Verde Escudo,CVE,Cape Verde,cv
+AF,CFA Franc BEAC,XAF,Central African Republic,cf
+AF,CFA Franc BEAC,XAF,Chad,td
+SA,Chilean Peso,CLP,Chile,cl
+SA,Colombian Peso,COP,Colombia,co
+AF,Comorian Franc,KMF,Comoros,km
+NA,Costa Rican Colon,CRC,Costa Rica,cr
+EU,Kuna,HRK,Croatia,hr
+NA,Cuban Peso,CUP,Cuba,cu
+NA,Netherlands Antillean Guilder,ANG,Curaçao,cw
+EU,Czech Koruna,CZK,Czech Republic,cz
+AF,Congolese Franc,CDF,Democratic Republic Of The Congo,cd
+EU,Danish Krone,DKK,Denmark,dk
+AF,Djibouti Franc,DJF,Djibouti,dj
+NA,East Caribbean Dollar,XCD,Dominica,dm
+NA,Dominican Peso,DOP,Dominican Republic,do
+AS,US Dollar,USD,East Timor,tl
+SA,US Dollar,USD,Ecuador,ec
+AF,Egyptian Pound,EGP,Egypt,eg
+NA,El Salvador Colon,SVC,El Salvador,sv
+AF,CFA Franc BEAC,XAF,Equatorial Guinea,gq
+AF,Nakfa,ERN,Eritrea,er
+EU,Euro,EUR,Estonia,ee
+AF,Lilangeni,SZL,Eswatini,sz
+AF,Ethiopian Birr,ETB,Ethiopia,et
+OC,US Dollar,USD,Federated States Of Micronesia,fm
+OC,Fiji Dollar,FJD,Fiji,fj
+EU,Euro,EUR,Finland,fi
+EU,Euro,EUR,France,fr
+AF,CFA Franc BEAC,XAF,Gabon,ga
+AS,Lari,GEL,Georgia,ge
+EU,Euro,EUR,Germany,de
+AF,Ghana Cedi,GHS,Ghana,gh
+EU,Euro,EUR,Greece,gr
+NA,Danish Krone,DKK,Greenland,gl
+NA,East Caribbean Dollar,XCD,Grenada,gd
+NA,Quetzal,GTQ,Guatemala,gt
+EU,Pound Sterling,GBP,Guernsey,gg
+AF,Guinean Franc,GNF,Guinea,gn
+AF,CFA Franc BCEAO,XOF,Guinea-Bissau,gw
+SA,Guyana Dollar,GYD,Guyana,gy
+NA,"Gourde,US Dollar","HTG,USD",Haiti,ht
+NA,Lempira,HNL,Honduras,hn
+AS,Hong Kong Dollar,HKD,Hong Kong,hk
+EU,Forint,HUF,Hungary,hu
+EU,Iceland Krona,ISK,Iceland,is
+AS,Indian Rupee,INR,India,in
+AS,Rupiah,IDR,Indonesia,id
+AS,Iranian Rial,IRR,Iran,ir
+AS,Iraqi Dinar,IQD,Iraq,iq
+EU,Euro,EUR,Ireland,ie
+EU,Pound Sterling,GBP,Isle Of Man,im
+AS,New Israeli Sheqel,ILS,Israel,il
+EU,Euro,EUR,Italy,it
+AF,CFA Franc BCEAO,XOF,Ivory Coast,ci
+NA,Jamaican Dollar,JMD,Jamaica,jm
+AS,Yen,JPY,Japan,jp
+EU,Pound Sterling,GBP,Jersey,je
+AS,Jordanian Dinar,JOD,Jordan,jo
+AS,Tenge,KZT,Kazakhstan,kz
+AF,Kenyan Shilling,KES,Kenya,ke
+OC,Australian Dollar,AUD,Kiribati,ki
+EU,Euro,EUR,Kosovo,xk
+AS,Kuwaiti Dinar,KWD,Kuwait,kw
+AS,Som,KGS,Kyrgyzstan,kg
+AS,Lao Kip,LAK,Laos,la
+EU,Euro,EUR,Latvia,lv
+AS,Lebanese Pound,LBP,Lebanon,lb
+AF,Loti,LSL,Lesotho,ls
+AF,Liberian Dollar,LRD,Liberia,lr
+AF,Libyan Dinar,LYD,Libya,ly
+EU,Swiss Franc,CHF,Liechtenstein,li
+EU,Euro,EUR,Lithuania,lt
+EU,Euro,EUR,Luxembourg,lu
+AS,Pataca,MOP,Macau,mo
+AF,Malagasy Ariary,MGA,Madagascar,mg
+AF,Malawi Kwacha,MWK,Malawi,mw
+AS,Malaysian Ringgit,MYR,Malaysia,my
+AS,Rufiyaa,MVR,Maldives,mv
+AF,CFA Franc BCEAO,XOF,Mali,ml
+EU,Euro,EUR,Malta,mt
+OC,US Dollar,USD,Marshall Islands,mh
+AF,Ouguiya,MRO,Mauritania,mr
+AF,Mauritius Rupee,MUR,Mauritius,mu
+NA,Mexican Peso,MXN,Mexico,mx
+EU,Moldovan Leu,MDL,Moldova,md
+EU,Euro,EUR,Monaco,mc
+AS,Tugrik,MNT,Mongolia,mn
+EU,Euro,EUR,Montenegro,me
+AF,Moroccan Dirham,MAD,Morocco,ma
+AF,Mozambique Metical,MZN,Mozambique,mz
+AS,Kyat,MMK,Myanmar,mm
+AF,Namibia Dollar,NAD,Namibia,na
+OC,Australian Dollar,AUD,Nauru,nr
+AS,Nepalese Rupee,NPR,Nepal,np
+EU,Euro,EUR,Netherlands,nl
+OC,New Zealand Dollar,NZD,New Zealand,nz
+NA,Cordoba Oro,NIO,Nicaragua,ni
+AF,CFA Franc BCEAO,XOF,Niger,ne
+AF,Naira,NGN,Nigeria,ng
+AS,North Korean Won,KPW,North Korea,kp
+EU,Norwegian Krone,NOK,Norway,no
+AS,Rial Omani,OMR,Oman,om
+AS,Pakistan Rupee,PKR,Pakistan,pk
+OC,US Dollar,USD,Palau,pw
+NA,Balboa,PAB,Panama,pa
+OC,Kina,PGK,Papua New Guinea,pg
+SA,Guarani,PYG,Paraguay,py
+AS,Yuan Renminbi,CNY,People's Republic Of China,cn
+SA,Sol,PEN,Peru,pe
+AS,Philippine Piso,PHP,Philippines,ph
+EU,Zloty,PLN,Poland,pl
+EU,Euro,EUR,Portugal,pt
+AS,Qatari Rial,QAR,Qatar,qa
+EU,Denar,MKD,Republic Of Macedonia,mk
+AF,CFA Franc BEAC,XAF,Republic Of The Congo,cg
+EU,Romanian Leu,RON,Romania,ro
+EU,Russian Ruble,RUB,Russia,ru
+AF,Rwanda Franc,RWF,Rwanda,rw
+NA,East Caribbean Dollar,XCD,Saint Kitts And Nevis,kn
+NA,East Caribbean Dollar,XCD,Saint Lucia,lc
+NA,East Caribbean Dollar,XCD,Saint Vincent And The Grenadines,vc
+OC,Tala,WST,Samoa,ws
+EU,Euro,EUR,San Marino,sm
+AS,Saudi Riyal,SAR,Saudi Arabia,sa
+AF,CFA Franc BCEAO,XOF,Senegal,sn
+EU,Serbian Dinar,RSD,Serbia,rs
+AF,Seychelles Rupee,SCR,Seychelles,sc
+AF,Leone,SLL,Sierra Leone,sl
+AS,Singapore Dollar,SGD,Singapore,sg
+NA,Netherlands Antillean Guilder,ANG,Sint Maarten,sx
+EU,Euro,EUR,Slovakia,sk
+EU,Euro,EUR,Slovenia,si
+OC,Solomon Islands Dollar,SBD,Solomon Islands,sb
+AF,Somali Shilling,SOS,Somalia,so
+AF,Rand,ZAR,South Africa,za
+AS,Won,KRW,South Korea,kr
+AF,South Sudanese Pound,SSP,South Sudan,ss
+EU,Euro,EUR,Spain,es
+AS,Sri Lanka Rupee,LKR,Sri Lanka,lk
+AF,Sudanese Pound,SDG,Sudan,sd
+SA,Surinam Dollar,SRD,Suriname,sr
+EU,Swedish Krona,SEK,Sweden,se
+EU,Swiss Franc,CHF,Switzerland,ch
+AS,Syrian Pound,SYP,Syria,sy
+AF,Dobra,STD,São Tomé And Príncipe,st
+AS,New Taiwan dollar,TWD,Taiwan,tw
+AS,Somoni,TJS,Tajikistan,tj
+AF,Tanzanian Shilling,TZS,Tanzania,tz
+AS,Baht,THB,Thailand,th
+NA,Bahamian Dollar,BSD,The Bahamas,bs
+AF,Dalasi,GMD,The Gambia,gm
+AF,CFA Franc BCEAO,XOF,Togo,tg
+OC,Pa’anga,TOP,Tonga,to
+NA,Trinidad and Tobago Dollar,TTD,Trinidad And Tobago,tt
+AF,Tunisian Dinar,TND,Tunisia,tn
+AS,Turkish Lira,TRY,Turkey,tr
+AS,Euro,EUR,Turkish Republic Of Northern Cyprus,cy
+AS,Turkmenistan New Manat,TMT,Turkmenistan,tm
+OC,Australian Dollar,AUD,Tuvalu,tv
+AF,Uganda Shilling,UGX,Uganda,ug
+EU,Hryvnia,UAH,Ukraine,ua
+AS,UAE Dirham,AED,United Arab Emirates,ae
+EU,Pound Sterling,GBP,United Kingdom,gb
+NA,US Dollar,USD,United States Of America,us
+SA,Peso Uruguayo,UYU,Uruguay,uy
+AS,Uzbekistan Sum,UZS,Uzbekistan,uz
+OC,Vatu,VUV,Vanuatu,vu
+EU,Euro,EUR,Vatican City,va
+SA,Bolívar,VEF,Venezuela,ve
+AS,Dong,VND,Vietnam,vn
+AS,Yemeni Rial,YER,Yemen,ye
+AF,Zambian Kwacha,ZMW,Zambia,zm
+AF,Zimbabwe Dollar,ZWL,Zimbabwe,zw
+EU,Euro,EUR,Åland Islands,ax
