@@ -5,5 +5,5 @@ Example project ETL with apache airflow on docker
 ## Run project
 - clone this repository
 - Run ```docker-compose up airflow-init```
-- Run ```docker build -t apache/airflow:2.1.0 .``` for install package
+- Run ```docker build -t apache/airflow:2.3.2 .``` for install package
 - Run ``` docker-compose up ``` 
