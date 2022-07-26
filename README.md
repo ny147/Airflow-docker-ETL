@@ -9,3 +9,7 @@ Example project ETL with apache airflow on docker
 - Run ``` docker-compose up ``` 
 ## Airflow with docker
 - Follow  [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html). including create dags, logs, plugins, and data folders.
+## key credentials
+- GCP .json key
+- .ENV variable 
+
